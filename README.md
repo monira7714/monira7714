@@ -6,10 +6,10 @@
 
 
 
-# Current Stats
+# 📊Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)
 
-# Technologies I have worked with
+# 👩🏻‍💻 Technologies I have worked with
 
 `<p align="center">
   <a href="https://skillicons.dev">
