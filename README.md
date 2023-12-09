@@ -7,8 +7,8 @@
 
 
 # 📊Current Stats
-`<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)</center>`
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus&card_width=520)](https://git.io/streak-stats)
 # 👩🏻‍💻 Technologies I have worked with
 
 `<p align="center">
