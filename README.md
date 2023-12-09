@@ -2,13 +2,12 @@
 ![alt text](./Images/cover.png)
 
 
-### Hi there 👋
-
-
-
 # 📊Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)
 
+### Hi there 👋
+
+<p align="center">I am a frontend web developer who is passionate to explore new technologies. I have learned tailwind, vite, React and Mongodb so far. Currently, i trying to broaden my horizon with next.js. </p>
 
 # 👩🏻‍💻 Technologies I have worked with
 
@@ -23,6 +22,6 @@
 
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me: [Facebook](https://www.facebook.com/monira7714?mibextid=ZbWKwL) [LinkedIn](in/monira-begum-3b659b2a0)
+- 📫 How to reach me: monirabegum7714@gmail.com
 - ⚡ I am a Tea Queen 👑.
 
