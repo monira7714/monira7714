@@ -7,7 +7,7 @@
 
 
 # 📊Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)
+`<center>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)</center>`
 
 # 👩🏻‍💻 Technologies I have worked with
 
