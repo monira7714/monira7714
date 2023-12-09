@@ -8,7 +8,7 @@
 
 Current Stats
 ---
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monira7714&theme=noctis-minimus)](https://git.io/streak-stats)
 <!--
 **monira7714/monira7714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
